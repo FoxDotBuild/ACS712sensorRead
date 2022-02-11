@@ -2,4 +2,5 @@
 ACS712-30A ammeter sensor reading example.
 
 # Wiring
-![image info](./schematic.png)
+![part view](./schematic.png)
+![schematic view](./circuit.png)
